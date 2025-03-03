@@ -1,6 +1,6 @@
 ## Hi, I'm Iuliia, an Android Developer!
 
-- Transitioned from business & marketing analytics to mobile development — loving it! 🌱
+- Transitioned from business analytics to mobile development — loving it! 🌱
 - Bachelor’s Degree: Mathematical Methods in Economics (CSU, Russia)
 - Open to REMOTE work 🌎
 
