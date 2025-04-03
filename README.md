@@ -9,7 +9,7 @@ __Kotlin, Java, Android SDK, Clean Architecture, SOLID, MVVM, Coroutines, Flow, 
 
 
 ##
-I'm currently working on [Nora Pub project](https://github.com/Basalygina/Nora-Pub) and Cargonika App<br>
+I'm currently working on [Nora Pub project](https://github.com/Basalygina/Nora-Pub-Compose) and Cargonika App<br>
 
 ## Contact me
 - **Email:** y@basalygina.ru
