@@ -9,7 +9,7 @@ __Kotlin, Java, Android SDK, MVVM, Clean Architecture, SOLID, Jetpack Compose, V
 
 
 ##
-I'm currently working on [Nora Pub project](https://github.com/Basalygina/Nora-Pub-Compose) and Cargonika App<br>
+I'm currently working on [Nora Pub project](https://github.com/Basalygina/Nora-Pub-Compose)<br>
 
 ## Contact me
 - **Email:** y@basalygina.ru
